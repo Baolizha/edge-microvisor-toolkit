@@ -8490,6 +8490,16 @@
       "component": {
         "type": "other",
         "other": {
+          "name": "kernel-mlt",
+          "version": "6.17.0",
+          "downloadUrl": ""
+        }
+      }
+    },
+    {
+      "component": {
+        "type": "other",
+        "other": {
           "name": "kernel",
           "version": "6.12.44",
           "downloadUrl": "https://www.kernel.org/pub/linux/kernel/v6.x/linux-6.12.44.tar.gz"

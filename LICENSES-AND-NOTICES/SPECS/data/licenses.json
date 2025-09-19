@@ -2371,6 +2371,7 @@
                 "kernel-64k-signed",
                 "kernel-mshv-signed",
                 "kernel-rt",
+                "kernel-mlt",
                 "kernel-signed",
                 "kernel-uki",
                 "kernel-uki-signed",
