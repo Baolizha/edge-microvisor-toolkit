@@ -1,0 +1,10 @@
+{
+ "Signatures": {
+  "emt-ca-20211013.pem": "5ef124b0924cb1047c111a0ecff1ae11e6ad7cac8d1d9b40f98f99334121f0b0",
+  "config": "8341a6b2759099959f059151da8003e5321fb64c785699f0d40599443c7076a6",
+  "cpupower": "d7518767bf2b1110d146a49c7d42e76b803f45eb8bd14d931aa6d0d346fae985",
+  "cpupower.service": "b057fe9e5d0e8c36f485818286b80e3eba8ff66ff44797940e99b1fd5361bb98",
+  "sha512hmac-openssl.sh": "02ab91329c4be09ee66d759e4d23ac875037c3b56e5a598e32fd1206da06a27f",
+  "mainline-tracking-pre-prod-v6.17-rc3-linux-250910T070627Z.tar.gz": "39dbec5f8eccce68b411efa2c5da3556606244bdb6f0c2fb6d0a6f9a4ed5cacc"
+ }
+}
